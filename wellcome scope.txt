@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 jos welcome to scope
+hello thanika
 =======
 thanika welcome
 >>>>>>> c4b394ef53b811e2d3c2e0b534722f8dbf06fe11
